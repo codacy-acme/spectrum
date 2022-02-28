@@ -10,6 +10,8 @@ This is the main monorepo codebase of [Spectrum](https://spectrum.chat). Every s
 
 ## What is Spectrum?
 
+#### What isn't?
+
 ### Vision
 
 It is difficult to grow, manage and measure the impact of online communities. Community owners need modern, chat-based communities but are running into scaling issues when their community grows beyond a few hundred members. It becomes hard to keep track of who's who, know what conversations are happening, and ensure that the community is staying healthy and productive.
